@@ -9,7 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/saitejas-janjur/BreakingBadApp/blob/main/BreakingBad%20Video.MOV.mp4)
+![How the app works - Video](https://github.com/saitejas-janjur/BreakingBadApp/blob/main/BreakingBad%20Video.MOV.mp4)
 
 This is a Breaking Bad IOS app built using Swift UI and the Breaking Bad API.  
 <!-- GETTING STARTED -->
